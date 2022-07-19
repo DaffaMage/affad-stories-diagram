@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T17:32:57.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FdfLI__Z3H2jQH0Krs6G" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-19T17:35:24.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AMgXbJxPb5mPOSimrBQ7" version="20.1.1" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1221" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lHVBBFsP0zXB3bss1feO" name="Somniumverse">
-    <mxGraphModel dx="798" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,7 +257,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aOr_7SojHPx7BmcFr2-G" name="Mini-Worlds (Incomplete)">
+  <diagram id="aOr_7SojHPx7BmcFr2-G" name="Mini-Worlds">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-0" />
@@ -275,7 +275,7 @@
           <mxGeometry x="50" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-7" value="Merapalkan Mimpi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T2kVOSxpK02s65miHArF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ET-YBNcXnxoC9ijN3A6z-1" source="ET-YBNcXnxoC9ijN3A6z-9" target="T2kVOSxpK02s65miHArF-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -292,41 +292,29 @@
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-15" value="Sins and Dreams Season 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET-YBNcXnxoC9ijN3A6z-16" value="Calamity [Wattpadesurd]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="50" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ET-YBNcXnxoC9ijN3A6z-17" value="Cahaya Bayangan [Wattpadesurd]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="50" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ET-YBNcXnxoC9ijN3A6z-18" value="Tumpukan Dusta [Kawan Pena]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="50" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ET-YBNcXnxoC9ijN3A6z-19" value="Noctus Zaharian" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="50" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-20" value="/Dua Jalan\" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="410" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-21" value="Hilang" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="230" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-22" value="Surat Perubahan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="230" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-23" value="Young Mask" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="410" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-24" value="Zero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="230" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-25" value="Luka Hitam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="407.5" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="227.5" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-26" value="Memegang Prinsip: Mengarungi Arus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="590" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-27" value="His Eye" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="410" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET-YBNcXnxoC9ijN3A6z-28" value="Abu Organisasi Hitam Series" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
           <mxGeometry x="285" y="140" width="170" height="20" as="geometry" />
@@ -344,15 +332,15 @@
           <mxGeometry x="590" y="55" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pwP3Tu0aL8nzkpuoM8Lh-0" value="Bencana Romansa Kerja Praktik [18+]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="230" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W47qLuFIWzkyfffA9u2s-0" value="Memento Mori : Tangan Kehancuran" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ET-YBNcXnxoC9ijN3A6z-1" vertex="1">
-          <mxGeometry x="590" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHU_dyqrtwC3hgpZIHOu-0" value="Akibat Satu Malam dengan Dosen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
-          <mxGeometry x="590" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rztCGpwuTFY1hZdJDeG-0" value="Kode Warna:&lt;br&gt;Hijau: Tamat dan Dipublikasikan&lt;br&gt;Merah: Stuck atau Uji Pasar&lt;br&gt;Kuning: Work in Progress&lt;br&gt;Ungu: Hanya Ide&lt;br&gt;Abu-abu: Discontinued&lt;br&gt;Toska: Dokumen Hilang&lt;br&gt;Biru: Cerita Berbayar" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
+        <mxCell id="7rztCGpwuTFY1hZdJDeG-0" value="Kode Warna:&lt;br&gt;Hijau: Tamat dan Dipublikasikan&lt;br&gt;Merah: Stuck atau Uji Pasar&lt;br&gt;Kuning: Work in Progress&lt;br&gt;Ungu: Hanya Ide&lt;br&gt;Abu-abu: Discontinued&lt;br&gt;Toska: Dokumen Hilang&lt;br&gt;Biru: Cerita Berbayar&lt;br&gt;&lt;br&gt;Cerpen tidak masuk ke dalam list ini" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
           <mxGeometry x="580" y="195" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nO88jbtTWCQsHvABqDbp-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
@@ -375,18 +363,6 @@
             <mxPoint x="599.9999999999998" y="424.5000000000002" as="sourcePoint" />
             <mxPoint x="659.9999999999998" y="424.5000000000002" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aJT7_l2XqmEIwrSZrq7_-0" value="Di Balik Kertas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
-          <mxGeometry x="50" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aJT7_l2XqmEIwrSZrq7_-1" value="Negosiasi Nafsu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
-          <mxGeometry x="230" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aJT7_l2XqmEIwrSZrq7_-2" value="Vaksin Cinta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
-          <mxGeometry x="410" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aJT7_l2XqmEIwrSZrq7_-3" value="Negosiasi Nafsu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ET-YBNcXnxoC9ijN3A6z-1">
-          <mxGeometry x="590" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
