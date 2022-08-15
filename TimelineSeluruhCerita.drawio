@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T07:10:47.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LthdSyNGtc_lEFIbgF-t" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-15T09:15:25.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d3wO5sFsMr3mBBXne2xG" version="20.2.3" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y5J24u5xDYEsAiYzcavm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="940" width="800" height="490" as="geometry" />
+          <mxGeometry x="20" y="940" width="800" height="580" as="geometry" />
         </mxCell>
         <mxCell id="Pe4HIbK8baJLfQ9ORxXF-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="440" width="800" height="490" as="geometry" />
@@ -110,12 +110,12 @@
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGlrjINGuqBazFXgnSmo-44" value="Semester 0001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="215" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bOvPMWNZljGPkCkS2SPF-3" value="Quid Pro Quo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="55" y="727.5" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DqDXxsaQy_0WUwskbLbI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="bOvPMWNZljGPkCkS2SPF-7" target="tGlrjINGuqBazFXgnSmo-44" edge="1">
+        <mxCell id="2nMFixjR7ZMuBgrrjJTM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bOvPMWNZljGPkCkS2SPF-7" target="2nMFixjR7ZMuBgrrjJTM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bOvPMWNZljGPkCkS2SPF-7" value="Satu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
@@ -233,6 +233,23 @@
         </mxCell>
         <mxCell id="jLEkHSqZJonnbaCl980v-1" value="Sentuhan Gelap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2nMFixjR7ZMuBgrrjJTM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nMFixjR7ZMuBgrrjJTM-1" target="tGlrjINGuqBazFXgnSmo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2nMFixjR7ZMuBgrrjJTM-1" value="Bukannya Itu Kita?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2nMFixjR7ZMuBgrrjJTM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nMFixjR7ZMuBgrrjJTM-4" target="U0ikGh63cjHtBOebi1f7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1040" />
+              <mxPoint x="420" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2nMFixjR7ZMuBgrrjJTM-4" value="Kisah Sebuah Payung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
