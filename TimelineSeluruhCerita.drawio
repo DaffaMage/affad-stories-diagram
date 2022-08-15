@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T14:49:20.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uaQNKmKCfYmWo-U6kgJT" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-15T17:10:00.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4viSETWyVGN6YU4VdaoL" version="20.2.4" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
-    <mxGraphModel dx="1153" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="62EhmKlIXd8l49M2DASa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hUNtiYaTxKNmz7NO94wZ-8" target="hUNtiYaTxKNmz7NO94wZ-10">
+        <mxCell id="62EhmKlIXd8l49M2DASa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="hUNtiYaTxKNmz7NO94wZ-8" target="hUNtiYaTxKNmz7NO94wZ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hUNtiYaTxKNmz7NO94wZ-8" value="Hati Biru Affa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -254,10 +254,10 @@
         <mxCell id="2nMFixjR7ZMuBgrrjJTM-4" value="Kisah Sebuah Payung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-rhC6yQjqmSdHPkwKwQG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-rhC6yQjqmSdHPkwKwQG-1" target="U0ikGh63cjHtBOebi1f7-1">
+        <mxCell id="-rhC6yQjqmSdHPkwKwQG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="-rhC6yQjqmSdHPkwKwQG-1" target="U0ikGh63cjHtBOebi1f7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-rhC6yQjqmSdHPkwKwQG-1" value="Negosiasi Nafsu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+        <mxCell id="-rhC6yQjqmSdHPkwKwQG-1" value="Negosiasi Nafsu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -331,6 +331,9 @@
         <mxCell id="A0BdW4284XzEleKwDMUG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XVwf_n-mX1l_mEd5Wz-G-1" target="A0BdW4284XzEleKwDMUG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cG0I-aftzx7M5mHUmFoE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="XVwf_n-mX1l_mEd5Wz-G-1" target="cG0I-aftzx7M5mHUmFoE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XVwf_n-mX1l_mEd5Wz-G-1" value="Sentuhan Memabukkan Shifa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="264" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -369,6 +372,15 @@
         </mxCell>
         <mxCell id="5OEEpYNbQEkqT2p5j_Bq-3" value="Nafsu Ipar VII" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cG0I-aftzx7M5mHUmFoE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="cG0I-aftzx7M5mHUmFoE-1" target="cG0I-aftzx7M5mHUmFoE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cG0I-aftzx7M5mHUmFoE-1" value="Nikmat Berdua" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cG0I-aftzx7M5mHUmFoE-3" value="Nikmat Berdua II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
