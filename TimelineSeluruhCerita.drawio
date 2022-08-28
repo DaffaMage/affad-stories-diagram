@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T15:11:11.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OUW4SNKu00f-GfMSd6Iv" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-28T15:11:33.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BRYmoUhRLym6uR-FaTVh" version="20.2.4" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4ZvABIqPtTlmOJ9XT0w-3" value="Sentuhan Memabukkan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="334.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="334.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e8DZOcGDjhYksMKw5DOT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="PZoYFX8bWx5V8JTHfaL4-11" target="PZoYFX8bWx5V8JTHfaL4-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -359,13 +359,8 @@
         <mxCell id="cG0I-aftzx7M5mHUmFoE-1" value="Nikmat Berdua" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CdBLEJ3KiWugeWBFqgPx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="cG0I-aftzx7M5mHUmFoE-3" target="W4ZvABIqPtTlmOJ9XT0w-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="200" />
-              <mxPoint x="270" y="200" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vN4Zvi5MiLDoGoYyVy33-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="cG0I-aftzx7M5mHUmFoE-3" target="W4ZvABIqPtTlmOJ9XT0w-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cG0I-aftzx7M5mHUmFoE-3" value="Nikmat Berdua II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
