@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T15:22:59.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nm3YJN2PoKVoqi73t-S_" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-28T15:24:08.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="t2W2x0dPm9Mq15RMsnTt" version="20.2.4" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1153" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jLEkHSqZJonnbaCl980v-1" value="Sentuhan Gelap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2nMFixjR7ZMuBgrrjJTM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2nMFixjR7ZMuBgrrjJTM-1" target="tGlrjINGuqBazFXgnSmo-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
