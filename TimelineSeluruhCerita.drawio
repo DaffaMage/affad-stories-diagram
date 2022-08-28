@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T15:07:07.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VFvPFZG3-rO9gu-O4GMx" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-28T15:07:32.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kRDZXj4wYScHcxPW1cVe" version="20.2.4" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,12 +154,12 @@
         <mxCell id="LgQSVjgWvoYoI5f046IZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LgQSVjgWvoYoI5f046IZ-1" target="hUNtiYaTxKNmz7NO94wZ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="275" y="710" />
+              <mxPoint x="275" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LgQSVjgWvoYoI5f046IZ-1" value="Twin Souls: 1 Love" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="680" width="110" height="60" as="geometry" />
+          <mxGeometry x="60" y="550" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pe4HIbK8baJLfQ9ORxXF-1" value="#Memilih#" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
