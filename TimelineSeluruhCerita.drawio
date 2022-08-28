@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T15:09:41.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QW4EK5-DKK_WA5k8axbo" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-28T15:10:22.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QC-hQ3kYCLs4uyH31aOx" version="20.2.4" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,7 +416,7 @@
           <mxGeometry x="90" y="70" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-10" value="Nafsu Ipar X" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-12" value="Semester 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="10" width="70" height="30" as="geometry" />
