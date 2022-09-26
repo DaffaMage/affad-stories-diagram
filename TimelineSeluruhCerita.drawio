@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T17:46:50.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AfiYkeT9WeFBVH9yD2DO" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-26T17:48:59.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KS4CcAyEK7fir8xM7vjC" version="20.3.6" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lHVBBFsP0zXB3bss1feO" name="Somniumverse">
-    <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="532" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,8 +344,8 @@
         <mxCell id="PZoYFX8bWx5V8JTHfaL4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
           <mxGeometry width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PZoYFX8bWx5V8JTHfaL4-2" value="Alternate Timeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
-          <mxGeometry x="90" y="45" width="110" height="20" as="geometry" />
+        <mxCell id="PZoYFX8bWx5V8JTHfaL4-2" value="Alternate Timeline" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
+          <mxGeometry x="85" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PZoYFX8bWx5V8JTHfaL4-3" value="" style="endArrow=classic;html=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -353,8 +353,8 @@
             <mxPoint x="79.99999999999977" y="24.999999999999773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PZoYFX8bWx5V8JTHfaL4-4" value="Kelanjutan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
-          <mxGeometry x="90" y="15" width="70" height="20" as="geometry" />
+        <mxCell id="PZoYFX8bWx5V8JTHfaL4-4" value="Kelanjutan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
+          <mxGeometry x="85" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PZoYFX8bWx5V8JTHfaL4-5" value="" style="endArrow=classic;html=1;dashed=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -368,8 +368,8 @@
             <mxPoint x="80" y="84.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PZoYFX8bWx5V8JTHfaL4-8" value="Saling Berhubungan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
-          <mxGeometry x="90" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="cUbswBwLOz3aEDcFOWsz-11" value="Bersamaan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="CdBLEJ3KiWugeWBFqgPx-6">
+          <mxGeometry x="85" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-12" value="Semester 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="10" width="70" height="30" as="geometry" />
