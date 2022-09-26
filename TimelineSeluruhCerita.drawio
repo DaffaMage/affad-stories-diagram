@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T16:25:14.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xR209uYnRrnWHNqijFZU" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-26T15:10:32.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MVwIyrzQWNFWyau2_mNe" version="20.3.6" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lHVBBFsP0zXB3bss1feO" name="Somniumverse">
-    <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,7 +377,7 @@
         <mxCell id="cG0I-aftzx7M5mHUmFoE-1" value="Nikmat Berdua" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gb3lvZobiIICXSaBoxCu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cG0I-aftzx7M5mHUmFoE-3" target="Gb3lvZobiIICXSaBoxCu-1">
+        <mxCell id="Gb3lvZobiIICXSaBoxCu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cG0I-aftzx7M5mHUmFoE-3" target="Gb3lvZobiIICXSaBoxCu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cG0I-aftzx7M5mHUmFoE-3" value="Nikmat Berdua II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
@@ -431,6 +431,9 @@
         <mxCell id="ddypd807SKsvSPaBawg4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="CdBLEJ3KiWugeWBFqgPx-10" target="ddypd807SKsvSPaBawg4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-LTo86wjIgT19UsyFT_C-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CdBLEJ3KiWugeWBFqgPx-10" target="-LTo86wjIgT19UsyFT_C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-10" value="Nafsu Ipar X" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -441,13 +444,28 @@
           <mxGeometry x="370" y="1190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ddypd807SKsvSPaBawg4-1" value="Nafsu Ipar XI-A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gb3lvZobiIICXSaBoxCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gb3lvZobiIICXSaBoxCu-1" target="W4ZvABIqPtTlmOJ9XT0w-3">
+        <mxCell id="Gb3lvZobiIICXSaBoxCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gb3lvZobiIICXSaBoxCu-1" target="W4ZvABIqPtTlmOJ9XT0w-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gb3lvZobiIICXSaBoxCu-1" value="Nikmat Berdua III" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Gb3lvZobiIICXSaBoxCu-1" value="Nikmat Berdua III" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="134.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LTo86wjIgT19UsyFT_C-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LTo86wjIgT19UsyFT_C-1" target="-LTo86wjIgT19UsyFT_C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LTo86wjIgT19UsyFT_C-1" value="Nafsu Ipar XII" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LTo86wjIgT19UsyFT_C-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LTo86wjIgT19UsyFT_C-2" target="-LTo86wjIgT19UsyFT_C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LTo86wjIgT19UsyFT_C-2" value="Nafsu Ipar XI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LTo86wjIgT19UsyFT_C-3" value="Nafsu Ipar XIII" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
