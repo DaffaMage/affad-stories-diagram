@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T17:41:59.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NZYQ6mFLMIOwGQQj--jg" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-26T17:42:48.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="m69H7Zy0Lc4Fq44zdqY1" version="20.3.6" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
           <mxGeometry x="10" width="810" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="W4ZvABIqPtTlmOJ9XT0w-1" value="Kode Warna:&lt;br&gt;Hijau: Tamat dan Dipublikasikan&lt;br&gt;Merah: Stuck atau Berhenti Sementara&lt;br&gt;Kuning: Work in Progress&lt;br&gt;Ungu: Hanya Ide&lt;br&gt;Abu-abu: Discontinued&lt;br&gt;Toska: Dokumen Hilang&lt;br&gt;Biru: Cerita Berbayar&lt;br&gt;Orange: Batal Publikasi&lt;br&gt;Cerpen ditandai Kotak Putus" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="560" y="50" width="220" height="150" as="geometry" />
+          <mxGeometry x="550" y="30" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XVwf_n-mX1l_mEd5Wz-G-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="W4ZvABIqPtTlmOJ9XT0w-3" target="XVwf_n-mX1l_mEd5Wz-G-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -401,7 +401,7 @@
           <mxGeometry x="50" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="560" y="214.5" width="220" height="110" as="geometry" />
+          <mxGeometry x="550" y="194.5" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PZoYFX8bWx5V8JTHfaL4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
           <mxGeometry width="220" height="110" as="geometry" />
