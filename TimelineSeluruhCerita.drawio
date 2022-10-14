@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T03:48:45.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kmRaYb7jSjJWjCRgMgFl" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:50:29.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xVbYkxGvhk1lxtPKMzJz" version="20.4.0" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,9 +290,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CdBLEJ3KiWugeWBFqgPx-13" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1178" width="810" height="1150" as="geometry" />
-        </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="10" width="810" height="1150" as="geometry" />
         </mxCell>
@@ -305,10 +302,10 @@
         <mxCell id="W4ZvABIqPtTlmOJ9XT0w-3" value="Sentuhan Memabukkan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="344.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2tCmduEH5ZDl1uhPkB_6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="XVwf_n-mX1l_mEd5Wz-G-1" target="A0BdW4284XzEleKwDMUG-6">
+        <mxCell id="2tCmduEH5ZDl1uhPkB_6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="XVwf_n-mX1l_mEd5Wz-G-1" target="A0BdW4284XzEleKwDMUG-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1300" />
+              <mxPoint x="90" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -319,16 +316,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0BdW4284XzEleKwDMUG-6" value="Segitiga Biru Hujan I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="194" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phmnnkwzL8pnIii_iFrz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A0BdW4284XzEleKwDMUG-8" target="phmnnkwzL8pnIii_iFrz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0BdW4284XzEleKwDMUG-8" value="Segitiga Biru Hujan II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phmnnkwzL8pnIii_iFrz-1" value="Segitiga Biru Hujan III" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="514" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cG0I-aftzx7M5mHUmFoE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="cG0I-aftzx7M5mHUmFoE-1" target="cG0I-aftzx7M5mHUmFoE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -375,11 +372,8 @@
         <mxCell id="cUbswBwLOz3aEDcFOWsz-11" value="Bersamaan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CdBLEJ3KiWugeWBFqgPx-6" vertex="1">
           <mxGeometry x="85" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CdBLEJ3KiWugeWBFqgPx-12" value="Semester 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="10" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CdBLEJ3KiWugeWBFqgPx-14" value="Semester 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1190" width="70" height="30" as="geometry" />
+        <mxCell id="CdBLEJ3KiWugeWBFqgPx-12" value="Tahun Pertama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cUbswBwLOz3aEDcFOWsz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gb3lvZobiIICXSaBoxCu-1" target="W4ZvABIqPtTlmOJ9XT0w-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
