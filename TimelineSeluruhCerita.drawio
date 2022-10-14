@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T03:46:44.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hX3M085OAFTyD5zWC_U7" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:47:00.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JYHfaKo9VsA0wCNQV8fe" version="20.4.0" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -500,7 +500,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gxdm0UENaoFrcrsqMGYS-1" value="Bunga Mati di Salju Dingin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="344.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="344.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uj0pRdRsu9vrgjemXhBG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uj0pRdRsu9vrgjemXhBG-1" target="Uj0pRdRsu9vrgjemXhBG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -522,19 +522,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uj0pRdRsu9vrgjemXhBG-4" value="Rahasia Pohon Api&lt;br&gt;(5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJZP784NTS4IgBSQbbtG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uj0pRdRsu9vrgjemXhBG-6" target="EJZP784NTS4IgBSQbbtG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uj0pRdRsu9vrgjemXhBG-6" value="Derita Pohon Api (5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="174.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="174.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2tCmduEH5ZDl1uhPkB_6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="EJZP784NTS4IgBSQbbtG-1" target="gxdm0UENaoFrcrsqMGYS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJZP784NTS4IgBSQbbtG-1" value="Es dan Petir (5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="259.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="259.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJZP784NTS4IgBSQbbtG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EJZP784NTS4IgBSQbbtG-6" target="XVwf_n-mX1l_mEd5Wz-G-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
