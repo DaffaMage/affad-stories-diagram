@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T03:27:05.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="86Rmq6HlBEzPwoFeglM5" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:27:17.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ix1Wn1Mb-xxWa5IpisEV" version="20.4.0" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -544,7 +544,7 @@
         <mxCell id="hZwe0MRdLyIJjoEBF8iR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hZwe0MRdLyIJjoEBF8iR-2" target="A0BdW4284XzEleKwDMUG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZwe0MRdLyIJjoEBF8iR-2" value="Rahasia Menggoda Shifa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="hZwe0MRdLyIJjoEBF8iR-2" value="Rahasia Menggoda Shifa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
