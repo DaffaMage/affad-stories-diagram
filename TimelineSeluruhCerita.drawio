@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T04:44:54.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UB2eXp1zsENf6wzVcL4s" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T06:14:15.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Jz2dBeJ58RhN9JoRzBME" version="20.4.0" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="519" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,14 +273,14 @@
         <mxCell id="ABBe9EN7scoHKAiKKw1j-8" value="Saling Berhubungan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ABBe9EN7scoHKAiKKw1j-1" vertex="1">
           <mxGeometry x="90" y="70" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4V56DgwFhopa23GC09Oy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uru6HYX4QHqYkpBcGvBW-1" target="H0F3POSe8cfEXiJUJmD0-2" edge="1">
+        <mxCell id="4V56DgwFhopa23GC09Oy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="uru6HYX4QHqYkpBcGvBW-1" target="H0F3POSe8cfEXiJUJmD0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4V56DgwFhopa23GC09Oy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="uru6HYX4QHqYkpBcGvBW-1" target="hUNtiYaTxKNmz7NO94wZ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uru6HYX4QHqYkpBcGvBW-1" value="Talbis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
