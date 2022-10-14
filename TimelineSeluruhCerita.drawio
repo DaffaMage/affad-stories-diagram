@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T03:25:19.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Qz0dhBORiloFmllYlknp" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:27:05.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="86Rmq6HlBEzPwoFeglM5" version="20.4.0" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lHVBBFsP0zXB3bss1feO" name="Somniumverse">
-    <mxGraphModel dx="2903" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,6 +305,9 @@
         <mxCell id="W4ZvABIqPtTlmOJ9XT0w-3" value="Sentuhan Memabukkan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="344.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hZwe0MRdLyIJjoEBF8iR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XVwf_n-mX1l_mEd5Wz-G-1" target="hZwe0MRdLyIJjoEBF8iR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XVwf_n-mX1l_mEd5Wz-G-1" value="Sentuhan Memabukkan Shifa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="30" y="434.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -318,10 +321,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0BdW4284XzEleKwDMUG-8" value="Segitiga Biru Hujan II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phmnnkwzL8pnIii_iFrz-1" value="Segitiga Biru Hujan III" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cG0I-aftzx7M5mHUmFoE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="cG0I-aftzx7M5mHUmFoE-1" target="cG0I-aftzx7M5mHUmFoE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -537,6 +540,12 @@
         </mxCell>
         <mxCell id="EJZP784NTS4IgBSQbbtG-6" value="Gelombang Merah" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwe0MRdLyIJjoEBF8iR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hZwe0MRdLyIJjoEBF8iR-2" target="A0BdW4284XzEleKwDMUG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwe0MRdLyIJjoEBF8iR-2" value="Rahasia Menggoda Shifa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
