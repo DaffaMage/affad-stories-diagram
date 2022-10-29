@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T04:42:38.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="McPOyttTIHmfQ44LUzIh" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-29T04:42:59.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JT1AdbqLR-afBnIDFcnI" version="20.5.1" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="903" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,7 +293,7 @@
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="10" width="810" height="1150" as="geometry" />
         </mxCell>
-        <mxCell id="W4ZvABIqPtTlmOJ9XT0w-1" value="Kode Warna:&lt;br&gt;Hijau: Tamat dan Dipublikasikan&lt;br&gt;Merah: Stuck atau Berhenti Sementara&lt;br&gt;Kuning: Work in Progress&lt;br&gt;Ungu: Hanya Ide&lt;br&gt;Abu-abu: Discontinued&lt;br&gt;Toska: Dokumen Hilang&lt;br&gt;Biru: Cerita Berbayar&lt;br&gt;Orange: Batal Publikasi&lt;br&gt;Cerpen ditandai Kotak Putus" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="W4ZvABIqPtTlmOJ9XT0w-1" value="Kode Warna:&lt;br&gt;Hijau: Tamat dan Dipublikasikan&lt;br&gt;Merah: Stuck atau Berhenti Sementara&lt;br&gt;Kuning: Work in Progress&lt;br&gt;Ungu: Hanya Ide&lt;br&gt;Abu-abu: Discontinued&lt;br&gt;Toska: Dokumen Hilang&lt;br&gt;Biru: Cerita Tamat Berbayar&lt;br&gt;Orange: Batal Publikasi&lt;br&gt;Cerpen ditandai Kotak Putus" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="580" y="70" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cUbswBwLOz3aEDcFOWsz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W4ZvABIqPtTlmOJ9XT0w-3" target="XVwf_n-mX1l_mEd5Wz-G-1" edge="1">
