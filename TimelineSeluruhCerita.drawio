@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T04:46:21.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ws1NUK4ml4zpI9KAlIIO" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-29T04:48:23.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gvTQSD6zBps7UBBPkHsB" version="20.5.1" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
-    <mxGraphModel dx="903" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,6 +408,9 @@
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-2" value="Nafsu Ipar VIII" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="434.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w4Vq8dJcAH2S5DoE4wqW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="CdBLEJ3KiWugeWBFqgPx-3" target="w4Vq8dJcAH2S5DoE4wqW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CdBLEJ3KiWugeWBFqgPx-3" value="Nafsu Ipar IX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="434.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -588,6 +591,9 @@
         </mxCell>
         <mxCell id="45VBMP8v0r22dI6F-Lnp-1" value="Gelombang Merah II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Vq8dJcAH2S5DoE4wqW-3" value="Gairah Hitam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="434.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
