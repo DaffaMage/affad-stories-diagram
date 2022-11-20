@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T22:36:36.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rjWAn6NKzBLRbzbtrPAb" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-20T16:01:58.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="L3tZjeKELeTTSPXfoX54" version="20.5.3" type="github" pages="3">
   <diagram id="EcnSmtBIn0JpFgmxEhbl" name="Affadverse">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,17 +280,17 @@
         <mxCell id="uru6HYX4QHqYkpBcGvBW-1" value="Talbis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKQJ0EqlzEyA_0ClmT0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqKQJ0EqlzEyA_0ClmT0-2" target="tGlrjINGuqBazFXgnSmo-44">
+        <mxCell id="bqKQJ0EqlzEyA_0ClmT0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bqKQJ0EqlzEyA_0ClmT0-2" target="tGlrjINGuqBazFXgnSmo-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqKQJ0EqlzEyA_0ClmT0-2" value="Aku Bukan Wanita Bayangan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="bqKQJ0EqlzEyA_0ClmT0-2" value="Aku Bukan Wanita Bayangan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="50" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="lHVBBFsP0zXB3bss1feO" name="Somniumverse">
-    <mxGraphModel dx="2310" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,7 +512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gxdm0UENaoFrcrsqMGYS-1" value="Bunga Mati di Salju Dingin (1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="344.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="434.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uj0pRdRsu9vrgjemXhBG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uj0pRdRsu9vrgjemXhBG-1" target="Uj0pRdRsu9vrgjemXhBG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -545,7 +545,7 @@
         <mxCell id="Uj0pRdRsu9vrgjemXhBG-6" value="Derita Pohon Api (5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="174.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2tCmduEH5ZDl1uhPkB_6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="EJZP784NTS4IgBSQbbtG-1" target="gxdm0UENaoFrcrsqMGYS-1" edge="1">
+        <mxCell id="xjzO7Ru0-dyCXI9OHxTh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EJZP784NTS4IgBSQbbtG-1" target="xjzO7Ru0-dyCXI9OHxTh-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJZP784NTS4IgBSQbbtG-1" value="Es dan Petir (5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
@@ -598,6 +598,12 @@
         </mxCell>
         <mxCell id="w4Vq8dJcAH2S5DoE4wqW-3" value="Gairah Hitam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="200" y="434.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjzO7Ru0-dyCXI9OHxTh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xjzO7Ru0-dyCXI9OHxTh-1" target="gxdm0UENaoFrcrsqMGYS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjzO7Ru0-dyCXI9OHxTh-1" value="Kisah Penjaga: Konspirasi Klan Xana (3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="344.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
